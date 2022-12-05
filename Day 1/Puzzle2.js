@@ -8,10 +8,6 @@ const input = fs
     .trim()
     .split('\r\n');
 
-console.log(input);
-
-
-
 let invs = []
 let totals = []
 let currIndex = 0
